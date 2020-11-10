@@ -1,0 +1,148 @@
+#nav
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav li
+{
+	display:inline;
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav ul
+{
+	position: absolute;
+	top: 1%;
+	left: 60%;
+}
+
+#navbar {
+	width: 1366px;
+	height: 45px;
+	background-color: black;
+}
+
+.lien {
+	background-color: red;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	font-style: italic;
+	background-color: white;
+	color: red;
+	transition: 0.5s;
+}
+.titresindex {
+	color: white;
+}
+
+#body {
+	background-image: url(../../Documents/siteperso/background.jpg);
+	background-size: cover;
+}
+
+#a_propos_titre {
+	color: white;
+	font-family:Chalkduster, fantasy;
+	text-decoration: underline;
+	text-shadow: 4px 4px 4px black;
+	display: inline;
+	position: fixed;
+	right: 50%;
+	left: 50%;
+}
+
+#moi {
+	color: white;
+	font-style: oblique 30deg;
+	position: fixed;
+	top: 30%;
+}
+
+#maphoto {
+	position: fixed;
+	right: 50%;
+	left: 50%;
+	top: 40%;
+}
+
+.labels {
+	color: white;
+	font-weight: bold;
+	position: relative;
+	left: 10%;
+}
+
+.Alaisepp {
+	position: relative;
+	left: 10%;
+	display: inline-block;
+	background-color: whitesmoke;
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.25) inset;
+	border-radius: 5px;
+	width: 202px;
+	height: 22px;
+}
+
+.Alaisep {
+	position: relative;
+	left: 10%;
+	top: 30%;
+	display: inline-block;
+	background-color: whitesmoke;
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.25) inset;
+	border-radius: 5px;
+	width: 202px;
+	height: 22px;
+}
+
+#titreexp1 {
+    color: white;
+    font-family:Chalkduster, fantasy;
+    text-shadow: 4px 4px 4px black;
+    text-decoration: underline;
+    position: absolute;
+	top: 20%;
+	left: 20%;
+}
+
+#titreexp2 {
+	color: green;
+	font-weight: bold;
+	text-shadow: 4px 4px 4px black;
+	text-decoration: underline;
+	position: absolute;
+	top: 25%;
+	left: 20%;
+}
+
+.titresexp {
+	
+}
+
+#logocbg {
+	position: absolute;
+	top: 35%;
+	left: 20%;
+}
+
+.menureseau {
+	border: 0.5em solid black;
+	width: 2em;
+	height: 4em;
+	background-color: white;
+}
+
+.iconesreseau {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
