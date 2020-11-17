@@ -40,11 +40,52 @@ a:hover {
 	transition: 0.5s;
 }
 .titresindex {
+	position: absolute;
+	left: 40%;
 	color: white;
 }
 
+#prenom {
+	position: absolute;
+	top: 45%;
+	left: 25%;
+	font-family: Chalkduster, fantasy;
+	writing-mode: vertical-lr;
+	text-decoration: underline 3px;
+}
+
+#nom {
+	position: absolute;
+	top: 45%;
+	left: 20%;
+	font-family: Chalkduster, fantasy;
+	writing-mode: vertical-lr;
+	text-decoration: underline 3px;
+}
+
+#imageindex {
+	position: absolute;
+	left: 35%;
+	top: 10%;
+	border-radius: 5px;
+	filter: blur(5px);
+}
+
+#imageindex:hover {
+	filter: blur(0);
+	transition: 0.5s;
+}
+
+#pindex {
+	color: white;
+	font-style: italic;
+	font-weight: bold;
+	position: absolute;
+	top: 70%;
+}
+
 #body {
-	background-image: url(../../Documents/siteperso/background.jpg);
+	background-image: url(../../alann/siteperso/background.jpg);
 	background-size: cover;
 }
 
@@ -107,7 +148,7 @@ a:hover {
     color: white;
     font-family:Chalkduster, fantasy;
     text-shadow: 4px 4px 4px black;
-    text-decoration: underline;
+    text-decoration: underline 3px;
     position: absolute;
 	top: 20%;
 	left: 20%;
@@ -131,18 +172,127 @@ a:hover {
 	position: absolute;
 	top: 35%;
 	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
 }
 
 .menureseau {
-	border: 0.5em solid black;
-	width: 2em;
-	height: 4em;
-	background-color: white;
+	border: 2px solid black;
+	width: 30px;
+	height: 60px;
 }
 
 .iconesreseau {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	border-radius: 100px;
 }
 
+#imgbg {
+	position: absolute;
+	top: 40%;
+	left: 35%;
+	color: white;
+}
+
+#brevet {
+	position: absolute;
+	top: 55%;
+	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#imgbrevet {
+	position: absolute;
+	top: 55%;
+	left: 35%;
+	color: white;
+}
+
+#ecole3villages {
+	position: absolute;
+	top: 75%;
+	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#imgecole3villages {
+	position: absolute;
+	top: 75%;
+	left: 35%;
+	color: white;
+}
+
+#amnesiabodega {
+	position: absolute;
+	top: 95%;
+	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#imgamnesiabodega {
+	position: absolute;
+	top: 95%;
+	left: 35%;
+	color: white;
+}
+
+#jettreport {
+	position: absolute;
+	top: 115%;
+	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#imgjettreport {
+	position: absolute;
+	top: 115%;
+	left: 35%;
+	color: white;
+}
+
+#bac {
+	position: absolute;
+	top: 135%;
+	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#imgbac {
+	position: absolute;
+	top: 135%;
+	left: 35%;
+	color: white;
+}
+
+#manala {
+	position: absolute;
+	top: 155%;
+	left: 20%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#imgmanala {
+	position: absolute;
+	top: 155%;
+	left: 35%;
+	color: white;
+}
+
+#butontelecharger {
+	width: 85px;
+	height: 85px;
+	border-radius: 100%;
+	border: solid black;
+	background-color: navy;
+	position: absolute;
+	top: 20%;
+	left: 70%;
+}
