@@ -103,15 +103,15 @@ a:hover {
 #moi {
 	color: white;
 	font-style: oblique 30deg;
-	position: fixed;
-	top: 30%;
+	position: absolute;
+	top: 40%;
 }
 
 #maphoto {
-	position: fixed;
+	position: absolute;
 	right: 50%;
 	left: 50%;
-	top: 40%;
+	top: 50%;
 }
 
 .labels {
@@ -295,4 +295,13 @@ a:hover {
 	position: absolute;
 	top: 20%;
 	left: 70%;
+}
+
+.formationimg {
+	box-shadow: 5px 5px 5px black;
+	border-radius: 5px;
+}
+
+.formationtxt {
+	color: white;
 }
