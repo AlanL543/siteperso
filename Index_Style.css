@@ -177,10 +177,33 @@ a:hover {
 }
 
 .menureseau {
+	position: absolute;
+	left: 0%;
+	top: 50%;
 	border: 2px solid black;
 	width: 30px;
 	height: 60px;
+	background-color: #061cff;
+	box-shadow: 5px 0px 5px #061cff;
+    /*display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;*/
 }
+
+.menureseau ul {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	position: relative;
+	display: flex;
+}
+
+/*.menureseau ul li {
+	position: relative;
+	list-style: none;
+	margin: 0 20px 
+}*/
 
 .iconesreseau {
 	display: block;
