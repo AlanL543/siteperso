@@ -102,7 +102,7 @@ a:hover {
 
 #moi {
 	color: white;
-	font-style: oblique 30deg;
+	font-style: oblique;
 	position: absolute;
 	top: 40%;
 }
@@ -164,10 +164,6 @@ a:hover {
 	left: 20%;
 }
 
-.titresexp {
-	
-}
-
 #logocbg {
 	position: absolute;
 	top: 35%;
@@ -191,13 +187,13 @@ a:hover {
 	min-height: 100vh;*/
 }
 
-.menureseau ul {
+/*.menureseau ul {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	position: relative;
 	display: flex;
-}
+}*/
 
 /*.menureseau ul li {
 	position: relative;
