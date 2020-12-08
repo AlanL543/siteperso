@@ -7,7 +7,7 @@ Site personnel développé avec les langages:
 ### Pour permettre du code avec le moins d'erreurs et de warnings possible, il a été vérifié : 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  
 -Validateurs W3C : [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  
-[![forthebadge]https://forthebadge.com/images/badges/uses-git.svg](https://forthebadge.com)  
+[![forthebadge]https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)  
 -Validateurs W3C : [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)  
 # Description : 
 -Mon site personnel, me présente et me décrit, on peut y trouver toutes les informations importantes concernant mon parcours professionnel, mes formations....
