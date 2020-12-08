@@ -5,10 +5,10 @@ Site personnel développé avec les langages:
 # Mon site personnel est déployé sur Heroku à l'adresse suivante : https://mon-site-perso.herokuapp.com/
 ## Son déploiement provient de la branche main GitHub de ce repositary : https://github.com/AlanL543/siteperso
 ### Pour permettre du code avec le moins d'erreurs et de warnings possible, il a été vérifié : 
-https://forthebadge.com/images/badges/uses-html.svg  
--Validateurs W3C : https://forthebadge.com/images/badges/uses-css.svg  
-https://forthebadge.com/images/badges/uses-git.svg  
--Validateurs W3C : https://forthebadge.com/images/badges/validated-html5.svg  
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  
+-Validateurs W3C : [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  
+[![forthebadge]https://forthebadge.com/images/badges/uses-git.svg](https://forthebadge.com)  
+-Validateurs W3C : [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)  
 # Description : 
 -Mon site personnel, me présente et me décrit, on peut y trouver toutes les informations importantes concernant mon parcours professionnel, mes formations....
 # Logiciels et solutions utilisées pour le développement : 
